@@ -11,9 +11,9 @@ Soy estudiante de programación en la UTN Argentina, con un fuerte enfoque en el
 ✔ Desarrollar aplicaciones optimizadas y bien estructuradas   
 ✔ Aprender constantemente y mejorar mis habilidades
 
-📌 Portafolio y Linkedin:
-🔗 https://portafolio-carlos-lopez.netlify.app/
+📌 Portafolio y Linkedin:  
+🔗 https://portafolio-carlos-lopez.netlify.app/  
 🔗 Mis https://www.linkedin.com/in/carlos-lopez-marchan/
 
-🌱 Siempre en búsqueda de nuevos desafíos y oportunidades para crecer como desarrollador. 
+🌱 Siempre en búsqueda de nuevos desafíos y oportunidades para crecer como desarrollador.  
 ¡Colaboremos en proyectos innovadores!😊
