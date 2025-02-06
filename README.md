@@ -14,4 +14,4 @@ Soy estudiante de programación en la UTN Argentina, con un fuerte enfoque en el
 
 ### 📌 Portafolio y contacto   
 🔗 [Mi Portafolio](https://portafolio-carlos-lopez.netlify.app/)  
-🔗 [Mi LinkedIn](https://www.linkedin.com/in/carlos-lopez-m!😊
+🔗 [Mi LinkedIn](https://www.linkedin.com/in/carlos-lopez-marchan/) !😊
