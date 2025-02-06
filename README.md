@@ -7,9 +7,7 @@ Soy estudiante de programación en la UTN Argentina, con un fuerte enfoque en el
 💡 Tecnologías principales:🔹 Python | Java | JavaScript | HTML | CSS | GitHub | Bootstrap
 
 💨 Lo que me impulsa:  
-
 ✔ Resolver problemas a través del código  
-
 ✔ Desarrollar aplicaciones optimizadas y bien estructuradas   
 ✔ Aprender constantemente y mejorar mis habilidades
 
