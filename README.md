@@ -10,7 +10,7 @@ Soy estudiante de programación en la UTN Argentina, con un fuerte enfoque en el
 
 ✔ Resolver problemas a través del código  
 
-✔ Desarrollar aplicaciones optimizadas y bien estructuradas
+✔ Desarrollar aplicaciones optimizadas y bien estructuradas 
 ✔ Aprender constantemente y mejorar mis habilidades
 
 📌 Portafolio y Linkedin:
