@@ -1,6 +1,6 @@
-💻## 💻 ¡Hola! Soy Carlos López 🚀  
+💻## ¡Hola! Soy Carlos López 🚀  
 
-### Desarrollador Backend en formación | Python & Java  
+### Desarrollador de software | Python & Java  
 
 Soy estudiante de programación en la UTN Argentina, con un fuerte enfoque en el desarrollo backend. Me apasiona crear soluciones eficientes y escalables, aplicando buenas prácticas de desarrollo y arquitectura de software.  
 
