@@ -1,16 +1,19 @@
-## Hi there 👋
+💻 ¡Hola! Soy Carlos López 🚀
 
-<!--
-**carlosgithub1506/carlosgithub1506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Backend en formación | Python & Java
 
-Here are some ideas to get you started:
+Soy estudiante de programación en la UTN Argentina, con un fuerte enfoque en el desarrollo backend. Me apasiona crear soluciones eficientes y escalables, aplicando buenas prácticas de desarrollo y arquitectura de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Tecnologías principales:🔹 Python | Java | JavaScript | HTML | CSS | GitHub | Bootstrap
+
+💨 Lo que me impulsa:
+✔ Resolver problemas a través del código
+✔ Desarrollar aplicaciones optimizadas y bien estructuradas
+✔ Aprender constantemente y mejorar mis habilidades
+
+📌 Portafolio y Linkedin:
+🔗 https://portafolio-carlos-lopez.netlify.app/
+🔗 Mis https://www.linkedin.com/in/carlos-lopez-marchan/
+
+🌱 Siempre en búsqueda de nuevos desafíos y oportunidades para crecer como desarrollador. 
+¡Colaboremos en proyectos innovadores!😊
