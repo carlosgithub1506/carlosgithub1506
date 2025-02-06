@@ -1,4 +1,4 @@
-💻## ¡Hola! Soy Carlos López 🚀  
+💻 ¡Hola! Soy Carlos López 🚀  
 
 ### Desarrollador de software | Python & Java  
 
