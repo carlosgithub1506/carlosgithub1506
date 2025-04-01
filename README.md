@@ -5,7 +5,7 @@
 Soy estudiante de programación en la UTN Argentina, con un fuerte enfoque en el desarrollo backend. Me apasiona crear soluciones eficientes y escalables, aplicando buenas prácticas de desarrollo y arquitectura de software.  
 
 ### 💡 Tecnologías principales  
-🔹 Python | Java | JavaScript | HTML | CSS | Git | GitHub | Bootstrap  
+🔹 Python | Java | JavaScript | HTML | CSS | Git | GitHub | Bootstrap | Mysql
 
 ### 💨 Lo que me impulsa  
 ✔ Resolver problemas a través del código  
