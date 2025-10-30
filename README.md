@@ -14,15 +14,15 @@ Apasionado por la tecnología, la automatización de pruebas y el aprendizaje co
 
 COMPETENCIAS CLAVES
 
-Herramientas y Lenguajes en uso:
+Herramientas y Lenguajes en uso :
 
 Java, Python, SQL, Postman, JMeter, Zephyr, Azure DevOps, GitHub
 
-En aprendizaje:
+En aprendizaje :
 
 Selenium, Playwright, QA Automation Frameworks, OWASP ZAP
 
-Complementarias:
+Complementarias :
 
 HTML, CSS, JavaScript (bases para testing en Frontend)
 Jira, Trello, Teams, Slack
