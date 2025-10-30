@@ -1,21 +1,31 @@
 💻 ¡Hola! Soy Carlos López 🚀  
 
-### Desarrollador de software | Python & Java  
+###FULL STACK DEVELOPER ESPECIALIZADO EN BACKEND | QA MANUAL & AUTOMATION TRAINEE |
 
-Soy estudiante de programación en la UTN Argentina, con un fuerte enfoque en el desarrollo backend. Me apasiona crear soluciones eficientes y escalables, aplicando buenas prácticas de desarrollo y arquitectura de software.  
+PERFIL PROFESIONAL
+Profesional en transición al mundo IT con formación en QA Manual y en proceso de certificación en QA Automation,
+complementado con estudios en Programación en la Universidad Tecnológica Nacional (UTN). Cuento con
+conocimientos sólidos en Java, Python, SQL y herramientas de testing orientadas al aseguramiento de la calidad del
+software. Mi experiencia previa en gestión de proyectos y análisis de procesos me permite integrar una visión técnica y
+de negocio, aportando eficiencia, colaboración y mejora continua a los equipos de desarrollo.
+Apasionado por la tecnología, la automatización de pruebas y el aprendizaje constante dentro de entornos ágiles
+(Scrum, Kanban).
 
-### 💡 Tecnologías principales  
-🔹 Python | Java | JavaScript | HTML | CSS | Git | GitHub | Bootstrap | Mysql
-
-### 💨 Lo que me impulsa  
-✔ Resolver problemas a través del código  
-✔ Desarrollar aplicaciones optimizadas y bien estructuradas  
-✔ Aprender constantemente y mejorar mis habilidades  
+COMPETENCIAS CLAVES
+Herramientas y Lenguajes en uso:
+Java, Python, SQL, Postman, JMeter, Zephyr, Azure DevOps, GitHub
+En aprendizaje:
+Selenium, Playwright, QA Automation Frameworks, OWASP ZAP
+Complementarias:
+HTML, CSS, JavaScript (bases para testing en Frontend)
+Jira, Trello, Teams, Slack
+Metodologías Ágiles: Scrum | Kanban
+Idiomas: Español (nativo) | Inglés Técnico (intermedio) 
 
 ### 📌 Portafolio y contacto   
 🔗 [Mi Portafolio](https://portafolio-carlos-lopez.netlify.app/)  
 🔗 [Mi LinkedIn](https://www.linkedin.com/in/carlos-lopez-marchan/)  
-🔗 [Mi currículo](https://drive.google.com/file/d/1SI1BvTwIoz0fsgEvYzEamsl34YXh3zwU/view?usp=sharing) 
+🔗 [Mi currículo](https://drive.google.com/file/d/1KCPzR_kYhgtKSoXcJXpHtMs50BhyexTJ/view?usp=sharing) 
 
-🌱 Siempre en búsqueda de nuevos desafíos y oportunidades para crecer como desarrollador.  
+🌱 Siempre en búsqueda de nuevos desafíos y oportunidades para seguir creciendo.  
 ¡Colaboramos en proyectos innovadores!😊
