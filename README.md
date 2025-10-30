@@ -3,6 +3,7 @@
 ### FULL STACK DEVELOPER ESPECIALIZADO EN BACKEND | QA MANUAL & AUTOMATION TRAINEE |
 
 PERFIL PROFESIONAL
+
 Profesional en transición al mundo IT con formación en QA Manual y en proceso de certificación en QA Automation,
 complementado con estudios en Programación en la Universidad Tecnológica Nacional (UTN). Cuento con
 conocimientos sólidos en Java, Python, SQL y herramientas de testing orientadas al aseguramiento de la calidad del
