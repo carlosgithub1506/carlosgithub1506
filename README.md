@@ -13,14 +13,22 @@ Apasionado por la tecnología, la automatización de pruebas y el aprendizaje co
 (Scrum, Kanban).
 
 COMPETENCIAS CLAVES
+
 Herramientas y Lenguajes en uso:
+
 Java, Python, SQL, Postman, JMeter, Zephyr, Azure DevOps, GitHub
+
 En aprendizaje:
+
 Selenium, Playwright, QA Automation Frameworks, OWASP ZAP
+
 Complementarias:
+
 HTML, CSS, JavaScript (bases para testing en Frontend)
 Jira, Trello, Teams, Slack
+
 Metodologías Ágiles: Scrum | Kanban
+
 Idiomas: Español (nativo) | Inglés Técnico (intermedio) 
 
 ### 📌 Portafolio y contacto   
