@@ -1,6 +1,6 @@
-💻 ¡Hola! Soy Carlos López 🚀  
+💻 ¡Hola! Soy Carlos López 
 
-###FULL STACK DEVELOPER ESPECIALIZADO EN BACKEND | QA MANUAL & AUTOMATION TRAINEE |
+### FULL STACK DEVELOPER ESPECIALIZADO EN BACKEND | QA MANUAL & AUTOMATION TRAINEE |
 
 PERFIL PROFESIONAL
 Profesional en transición al mundo IT con formación en QA Manual y en proceso de certificación en QA Automation,
